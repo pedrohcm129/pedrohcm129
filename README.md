@@ -2,7 +2,7 @@
 ### Estudante de Ciências da Computação na UFOPA.
 
 
-<a hraf="https://www.instagram.com/pedrohcm129/" target="_blanck_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/pedrohcm129/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcm129&show_icons=true&theme=onedark)
 
