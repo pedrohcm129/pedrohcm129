@@ -2,7 +2,8 @@
 ### Estudante de Ciências da Computação na UFOPA.
 
 
-<a href="https://www.instagram.com/pedrohcm129/" target="_blanck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+[![Instagram:](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohcm129/)
+[![Twitter:](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter/pedrohcm129/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohcm129&show_icons=true&theme=onedark)
 
@@ -14,7 +15,3 @@
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
     <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
-
-Repositório do Github Stats: https://github.com/anuraghazra/github...
-Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk
-Emojis: https://emojipedia.org/
